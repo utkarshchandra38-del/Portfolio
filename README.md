@@ -16,6 +16,9 @@ My featured projects
 
 Easy ways to contact and connect with me
 
+🌐 **Live Preview:**  
+👉 [Click here to view the website](https://utkarshchandra38-del.github.io/Portfolio/)
+
 👨‍💻 About Me
 
 I am Utkarsh Chandra Singh, a 1st-year B.Tech CSE (AI & ML) student passionate about web development, programming, and building meaningful projects.
